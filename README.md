@@ -8,7 +8,9 @@ https://vpinnika.github.io/leaflet-challenge/.
 
 ## Technology stack used in developing this web application is as follows:
 leaflet.js
+
 HTML/CSS/Bootstrap/Javascript
+
 GeoJSON
 
 ## Data Sources used :
