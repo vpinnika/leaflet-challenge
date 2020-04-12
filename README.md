@@ -19,11 +19,11 @@ https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_bo
 
 ## Images
 
-![Image-1](Images/Image-1.png)
+Images/Image-1.png
 
-![Image-2](Images/Image-2.png)
+Images/Image-2.png
 
-![Image-2](Images/Image-2.png)
+Images/Image-2.png
 
 
 
