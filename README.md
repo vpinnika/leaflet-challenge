@@ -25,6 +25,7 @@ Images/Image-2.png
 
 Images/Image-2.png
 
+![Laboratory](Images/Image-1.PNG)
 
 
 
